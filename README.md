@@ -40,6 +40,7 @@
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
 - **Ferramentas**
+  
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -50,7 +51,7 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-Matheus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/matheus-silva-devrj/)](www.linkedin.com/in/matheus-silva-devrj/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-silva-devrj/)](https://www.linkedin.com/in/matheus-silva-devrj/)
 [![Gmail Badge](https://img.shields.io/badge/-matheuswnscf@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheuswnscf@gmail.com)](mailto:matheuswnscf@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/Mthhs1/)
 
